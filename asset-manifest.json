@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/myway/static/css/main.87a45272.css",
+    "main.js": "/myway/static/js/main.818eb18a.js",
+    "static/media/logo.jpg": "/myway/static/media/logo.64d5a4348bccf2b52972.jpg",
+    "index.html": "/myway/index.html",
+    "main.87a45272.css.map": "/myway/static/css/main.87a45272.css.map",
+    "main.818eb18a.js.map": "/myway/static/js/main.818eb18a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a45272.css",
+    "static/js/main.818eb18a.js"
+  ]
+}
