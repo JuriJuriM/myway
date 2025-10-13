@@ -24,4 +24,41 @@
         font-size: 26px;
         line-height: 1.5;
     }
+    &__row-two {
+        display: flex;
+        margin-bottom: 20px;
+    }
+    &__column-two {
+        flex: 0 0 16.5%;
+        padding-left: 5px;
+    }
+    &__photo-two {
+        flex: 1 1 auto;
+    }
+    &__photo-two img {
+        max-width: 100%;
+    }
+    &__subtitle-two {
+        text-align: center;
+        font-size: 26px;
+        line-height: 1.5;
+    }
+    &__button {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    &__button a {
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        border: 2px solid #4d4261;
+        border-radius: 10px;
+        padding: 10px;
+        background-color: #5e5373;
+        color: #ffffff;
+    }
+    &__button a:hover {
+        background-color: #8d80a5;
+    }
 }
