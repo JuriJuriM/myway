@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/myway/static/css/main.c4c0aac6.css",
-    "main.js": "/myway/static/js/main.00b498a4.js",
+    "main.css": "/myway/static/css/main.972bc9c0.css",
+    "main.js": "/myway/static/js/main.416a900c.js",
+    "static/media/vasilok.png": "/myway/static/media/vasilok.93b86b45937cb0a140bb.png",
+    "static/media/chroniki.png": "/myway/static/media/chroniki.7714ed50fa50aa75bfa9.png",
+    "static/media/bands.png": "/myway/static/media/bands.356bcf6f738a89c59c38.png",
+    "static/media/bancomat.png": "/myway/static/media/bancomat.e6049a85af4e45ea565f.png",
+    "static/media/wefromsvu.png": "/myway/static/media/wefromsvu.1a7fc4ee3bf507338e87.png",
     "static/media/avatar.jpg": "/myway/static/media/avatar.82bba7d15b640b33adba.jpg",
+    "static/media/daydospechov.png": "/myway/static/media/daydospechov.4bfe09044a8f94eb3732.png",
     "static/media/logo.jpg": "/myway/static/media/logo.64d5a4348bccf2b52972.jpg",
     "index.html": "/myway/index.html",
-    "main.c4c0aac6.css.map": "/myway/static/css/main.c4c0aac6.css.map",
-    "main.00b498a4.js.map": "/myway/static/js/main.00b498a4.js.map"
+    "main.972bc9c0.css.map": "/myway/static/css/main.972bc9c0.css.map",
+    "main.416a900c.js.map": "/myway/static/js/main.416a900c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4c0aac6.css",
-    "static/js/main.00b498a4.js"
+    "static/css/main.972bc9c0.css",
+    "static/js/main.416a900c.js"
   ]
 }
