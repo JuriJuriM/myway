@@ -24,7 +24,7 @@ const Header = () => {
                                     <Link to='/'>Главная</Link>
                                 </li>
                                 <li className='header__nav-item'>
-                                    <Link to='/second'>Second</Link>
+                                    <Link to='/second'>Рассказы</Link>
                                 </li>
                                 <li className='header__nav-item'>
                                     <Link to='/third'>Third</Link>
