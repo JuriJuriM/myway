@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/myway/static/css/main.9c698932.css",
-    "main.js": "/myway/static/js/main.e034055e.js",
+    "main.css": "/myway/static/css/main.9e9c6d51.css",
+    "main.js": "/myway/static/js/main.c9423845.js",
     "static/media/acne.png": "/myway/static/media/acne.97b2ddb71650c6ee215f.png",
+    "static/media/contest.png": "/myway/static/media/contest.2ef576b382ef5e6956d7.png",
     "static/media/elusive.png": "/myway/static/media/elusive.b14637c55db57d518a0e.png",
     "static/media/womens.png": "/myway/static/media/womens.838db8960f2d09db18d9.png",
     "static/media/vasilok.png": "/myway/static/media/vasilok.93b86b45937cb0a140bb.png",
@@ -14,11 +15,11 @@
     "static/media/daydospechov.png": "/myway/static/media/daydospechov.4bfe09044a8f94eb3732.png",
     "static/media/logo.jpg": "/myway/static/media/logo.64d5a4348bccf2b52972.jpg",
     "index.html": "/myway/index.html",
-    "main.9c698932.css.map": "/myway/static/css/main.9c698932.css.map",
-    "main.e034055e.js.map": "/myway/static/js/main.e034055e.js.map"
+    "main.9e9c6d51.css.map": "/myway/static/css/main.9e9c6d51.css.map",
+    "main.c9423845.js.map": "/myway/static/js/main.c9423845.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c698932.css",
-    "static/js/main.e034055e.js"
+    "static/css/main.9e9c6d51.css",
+    "static/js/main.c9423845.js"
   ]
 }
