@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/myway/static/css/main.9e9c6d51.css",
+    "main.css": "/myway/static/css/main.f2db2b5e.css",
     "main.js": "/myway/static/js/main.c9423845.js",
     "static/media/acne.png": "/myway/static/media/acne.97b2ddb71650c6ee215f.png",
     "static/media/contest.png": "/myway/static/media/contest.2ef576b382ef5e6956d7.png",
     "static/media/elusive.png": "/myway/static/media/elusive.b14637c55db57d518a0e.png",
     "static/media/womens.png": "/myway/static/media/womens.838db8960f2d09db18d9.png",
+    "static/media/secondfone.jpg": "/myway/static/media/secondfone.bd138c0570e267498a57.jpg",
     "static/media/vasilok.png": "/myway/static/media/vasilok.93b86b45937cb0a140bb.png",
     "static/media/chroniki.png": "/myway/static/media/chroniki.7714ed50fa50aa75bfa9.png",
     "static/media/bands.png": "/myway/static/media/bands.356bcf6f738a89c59c38.png",
@@ -14,12 +15,13 @@
     "static/media/avatar.jpg": "/myway/static/media/avatar.82bba7d15b640b33adba.jpg",
     "static/media/daydospechov.png": "/myway/static/media/daydospechov.4bfe09044a8f94eb3732.png",
     "static/media/logo.jpg": "/myway/static/media/logo.64d5a4348bccf2b52972.jpg",
+    "static/media/cronicfone.jpg": "/myway/static/media/cronicfone.e92e9f4dca0bee4754b6.jpg",
     "index.html": "/myway/index.html",
-    "main.9e9c6d51.css.map": "/myway/static/css/main.9e9c6d51.css.map",
+    "main.f2db2b5e.css.map": "/myway/static/css/main.f2db2b5e.css.map",
     "main.c9423845.js.map": "/myway/static/js/main.c9423845.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e9c6d51.css",
+    "static/css/main.f2db2b5e.css",
     "static/js/main.c9423845.js"
   ]
 }
